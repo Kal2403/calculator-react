@@ -2,7 +2,7 @@
 
 Welcome to the Calculator project! In this project, we have created a functional calculator using web technologies such as HTML, CSS, JavaScript, and React. The calculator will allow you to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
-![Calculator](src/img/calculator.png)
+![Calculator](src/img/calculadora.png)
 
 ## Features
 
