@@ -6,7 +6,7 @@ Welcome to the Calculator project! In this project, we have created a functional
 
 ## Live Demo 
 
-[Calculator WebSite](https://benevolent-pony-0ec4cb.netlify.app)
+[Calculator WebSite](https://calculator-kal2403.netlify.app)
 
 ## Features
 
